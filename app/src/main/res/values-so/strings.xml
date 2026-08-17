@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Suuqa Shaqaalaha</string>
+    <string name="app_tagline">Isku xirka Shaqaalaha iyo Loo-shaqeeyayaasha Itoobiya iyo Afrika</string>
+    
+    <!-- Roles -->
+    <string name="role_worker">Shaqaale</string>
+    <string name="role_employer">Loo Shaqeeye</string>
+    <string name="role_admin">Maamule</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Hoyga</string>
+    <string name="nav_jobs">Shaqooyinka</string>
+    <string name="nav_workers">Shaqaalaha</string>
+    <string name="nav_applications">Codsiyada</string>
+    <string name="nav_messages">Farriimaha</string>
+    <string name="nav_profile">Muuqaalka</string>
+    <string name="nav_map">Khariidadda</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_users">Isticmaalayaasha</string>
+    <string name="nav_verifications">Xaqiijinta</string>
+    <string name="nav_reports">Warbixinada</string>
+    <string name="nav_settings">Dejimaha</string>
+
+    <!-- Auth -->
+    <string name="login_title">Ku Soo Dhawoow</string>
+    <string name="login_subtitle">Soo gal si aad shaqo u hesho ama shaqaale u qorato</string>
+    <string name="register_title">Sameyso Akoon Cusub</string>
+    <string name="register_subtitle">Ku soo biir suuqayaga shaqada</string>
+    <string name="select_role">Dooro Doorkaaga</string>
+    <string name="email_label">Email-ka</string>
+    <string name="phone_label">Lambarka Taleefanka</string>
+    <string name="password_label">Furaha Sirta</string>
+    <string name="full_name_label">Magaca oo Buuxa / Magaca Shirkadda</string>
+    <string name="sign_in_button">Soo Gal</string>
+    <string name="sign_up_button">Isdiiwaangeli</string>
+    <string name="switch_to_register">Ma haysatid akoon? Isdiiwaangeli</string>
+    <string name="switch_to_login">Ma leedahay akoon? Soo gal</string>
+    <string name="quick_demo_login">Galitaanka Tijaabada</string>
+    <string name="demo_worker">U gal sida Shaqaale</string>
+    <string name="demo_employer">U gal sida Loo-shaqeeye</string>
+    <string name="demo_admin">U gal sida Maamule</string>
+    <string name="logout">Ka Bax</string>
+
+    <!-- Common Actions -->
+    <string name="action_search">Raadi</string>
+    <string name="action_filter">Kala Saari</string>
+    <string name="action_apply">Codso Hadda</string>
+    <string name="action_cancel">Jooji</string>
+    <string name="action_save">Kaydi</string>
+    <string name="action_edit">Wax Ka Beddel</string>
+    <string name="action_delete">Tirtir</string>
+    <string name="action_post_job">Dhig Shaqo</string>
+    <string name="action_view_details">Faahfaahinta</string>
+    <string name="action_contact">Farriin Dir</string>
+    <string name="action_call">Wac</string>
+    <string name="action_shortlist">Xulo</string>
+    <string name="action_interview">Waraysi</string>
+    <string name="action_accept">Aqbal</string>
+    <string name="action_reject">Diid</string>
+    <string name="action_rate">Qiimee</string>
+    <string name="action_report">Warbixi</string>
+    <string name="action_verify">Xaqiiji</string>
+    <string name="action_approve">Oggolow</string>
+    <string name="action_suspend">Hakad Geli</string>
+    <string name="action_block">Xannib</string>
+    <string name="action_activate">Hawlgeli</string>
+    <string name="action_send">Dir</string>
+
+    <!-- Job Details & Statuses -->
+    <string name="job_title">Cinwaanka Shaqada</string>
+    <string name="job_category">Qaybta Shaqada</string>
+    <string name="job_type">Nooca Shaqaalaysiinta</string>
+    <string name="job_salary">Mushaharka</string>
+    <string name="job_location">Goobta</string>
+    <string name="job_skills">Xirfadaha Loo Baahan Yahay</string>
+    <string name="job_experience">Khibradda Loo Baahan Yahay</string>
+    <string name="job_deadline">Waqtiga Kama Dambaysta Ah</string>
+    <string name="job_openings">Jagooyinka Bannaan</string>
+    <string name="status_active">Shaqaynaya</string>
+    <string name="status_pending">Sugaya</string>
+    <string name="status_shortlisted">La Xushay</string>
+    <string name="status_interview">Waraysi</string>
+    <string name="status_accepted">La Aqbalay</string>
+    <string name="status_rejected">La Diiday</string>
+    <string name="status_cancelled">La Joojiyay</string>
+    <string name="status_paused">Hakad Kumeelgaar Ah</string>
+    <string name="status_closed">Xidhan</string>
+    <string name="status_filled">Buuxsantay</string>
+
+    <!-- Verification -->
+    <string name="verification_unverified">Aan La Xaqiijin</string>
+    <string name="verification_pending">Xaqiijin Sugaya</string>
+    <string name="verification_verified">Akoon La Xaqiijiyay</string>
+    <string name="verification_rejected">La Diiday</string>
+
+    <!-- Matching -->
+    <string name="match_score">Dhibcaha Is-waafajinta</string>
+    <string name="skills_match">Is-waafajinta Xirfadaha</string>
+    <string name="location_match">Is-waafajinta Goobta</string>
+    <string name="experience_match">Is-waafajinta Khibradda</string>
+    <string name="top_matches">Shaqooyinka Kuugu Habboon</string>
+    <string name="top_workers_matched">Shaqaalaha La Xushay</string>
+
+    <!-- Language -->
+    <string name="language_selection">Luqadda / Language</string>
+    <string name="lang_en">English</string>
+    <string name="lang_am">አማርኛ (Amharic)</string>
+    <string name="lang_om">Afaan Oromoo (Oromo)</string>
+    <string name="lang_ti">ትግርኛ (Tigrinya)</string>
+    <string name="lang_so">Soomaali (Somali)</string>
+
+    <!-- Connectivity -->
+    <string name="status_online">Ku Xiran</string>
+    <string name="status_offline">Khadka Ka Baxsan (Xogta Kaydsan)</string>
+</resources>

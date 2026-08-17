@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">ዕዳጋ ሰራሕተኛታት</string>
+    <string name="app_tagline">ሰራሕተኛታትን ኣስራሕትን ኣብ ኢትዮጵያን ኣፍሪቃን ዘራኽብ መድረኽ</string>
+    
+    <!-- Roles -->
+    <string name="role_worker">ሰራሕተኛ</string>
+    <string name="role_employer">ኣስራሒ</string>
+    <string name="role_admin">ኣመሓዳሪ</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">መበገሲ</string>
+    <string name="nav_jobs">ስራሕቲ</string>
+    <string name="nav_workers">ሰራሕተኛታት</string>
+    <string name="nav_applications">መመልከቲታት</string>
+    <string name="nav_messages">መልእኽትታት</string>
+    <string name="nav_profile">መግለጺ</string>
+    <string name="nav_map">ካርታ</string>
+    <string name="nav_dashboard">ዳሽቦርድ</string>
+    <string name="nav_users">ተጠቀምቲ</string>
+    <string name="nav_verifications">ምርግጋጽ</string>
+    <string name="nav_reports">ጸብጻባት</string>
+    <string name="nav_settings">ቅጥዕታት</string>
+
+    <!-- Auth -->
+    <string name="login_title">እንቋዕ ብደሓን መጻእኩም</string>
+    <string name="login_subtitle">ስራሕ ንምርካብ ወይ ሰራሕተኛ ንምቑጻር እተዉ</string>
+    <string name="register_title">ሓድሽ ኣካውንት ፍጠሩ</string>
+    <string name="register_subtitle">ናብዚ ዕዳጋ ስራሕ ተጸንበሩ</string>
+    <string name="select_role">ተራኹም ምረጹ</string>
+    <string name="email_label">ኢመይል</string>
+    <string name="phone_label">ቁጽሪ ተሌፎን</string>
+    <string name="password_label">መሕለፊ ቃል</string>
+    <string name="full_name_label">ሙሉእ ስም / ስም ትካል</string>
+    <string name="sign_in_button">እተዉ</string>
+    <string name="sign_up_button">ተመዝገቡ</string>
+    <string name="switch_to_register">ኣካውንት የብልኩምን? ተመዝገቡ</string>
+    <string name="switch_to_login">ኣካውንት ኣለኩም ድዩ? እተዉ</string>
+    <string name="quick_demo_login">ናይ ፈተነ መእተዊታት</string>
+    <string name="demo_worker">ከም ሰራሕተኛ እቶ</string>
+    <string name="demo_employer">ከም ኣስራሒ እቶ</string>
+    <string name="demo_admin">ከም ኣመሓዳሪ እቶ</string>
+    <string name="logout">ውጻእ</string>
+
+    <!-- Common Actions -->
+    <string name="action_search">ድለይ</string>
+    <string name="action_filter">ኣጻሪ</string>
+    <string name="action_apply">ሕጂ ኣመልክት</string>
+    <string name="action_cancel">ሰርዝ</string>
+    <string name="action_save">ኣቐምጥ</string>
+    <string name="action_edit">ኣዐሪ</string>
+    <string name="action_delete">ደምስስ</string>
+    <string name="action_post_job">ስራሕ ለጥፍ</string>
+    <string name="action_view_details">ዝርዝር ርአ</string>
+    <string name="action_contact">መልእኽቲ ስደድ</string>
+    <string name="action_call">ደውል</string>
+    <string name="action_shortlist">ሕጸ</string>
+    <string name="action_interview">ቃለ መሕትት</string>
+    <string name="action_accept">ተቐበል</string>
+    <string name="action_reject">ነጺግ</string>
+    <string name="action_rate">ደረጃ ሃብ</string>
+    <string name="action_report">ጸብጽብ</string>
+    <string name="action_verify">መረጋገጺ ርከብ</string>
+    <string name="action_approve">ኣጽድቕ</string>
+    <string name="action_suspend">ኣግድ</string>
+    <string name="action_block">ዕጾ</string>
+    <string name="action_activate">ኣተግብር</string>
+    <string name="action_send">ስደድ</string>
+
+    <!-- Job Details & Statuses -->
+    <string name="job_title">ኣርእስቲ ስራሕ</string>
+    <string name="job_category">ዓይነት ስራሕ</string>
+    <string name="job_type">ዓይነት ቅጥሪ</string>
+    <string name="job_salary">ደሞዝ</string>
+    <string name="job_location">ቦታ</string>
+    <string name="job_skills">ዘድልዩ ክእለታት</string>
+    <string name="job_experience">ተመክሮ ስራሕ</string>
+    <string name="job_deadline">መዕጸዊ መመልከቲ</string>
+    <string name="job_openings">ክፉታት ስራሕ</string>
+    <string name="status_active">ንጡፍ</string>
+    <string name="status_pending">ይጽበ ኣሎ</string>
+    <string name="status_shortlisted">ዝተሓረዩ</string>
+    <string name="status_interview">ቃለ መሕትት</string>
+    <string name="status_accepted">ተቐባልነት ረኺቡ</string>
+    <string name="status_rejected">ተነጺጉ</string>
+    <string name="status_cancelled">ተሰሪዙ</string>
+    <string name="status_paused">ብግዜኡ ደው ዝበለ</string>
+    <string name="status_closed">ዝተዓጽወ</string>
+    <string name="status_filled">ዝተመልአ</string>
+
+    <!-- Verification -->
+    <string name="verification_unverified">ዘይተረጋገጸ</string>
+    <string name="verification_pending">ኣብ ምጽራይ ዘሎ</string>
+    <string name="verification_verified">ዝተረጋገጸ ኣካውንት</string>
+    <string name="verification_rejected">ተነጺጉ</string>
+
+    <!-- Matching -->
+    <string name="match_score">ነጥቢ ምትእስሳር</string>
+    <string name="skills_match">ምትእስሳር ክእለት</string>
+    <string name="location_match">ምትእስሳር ቦታ</string>
+    <string name="experience_match">ምትእስሳር ተመክሮ</string>
+    <string name="top_matches">ንዓኹም ዝሰማማዕ ስራሕቲ</string>
+    <string name="top_workers_matched">ብሉጻት ሰራሕተኛታት</string>
+
+    <!-- Language -->
+    <string name="language_selection">ቋንቋ / Language</string>
+    <string name="lang_en">English</string>
+    <string name="lang_am">አማርኛ (Amharic)</string>
+    <string name="lang_om">Afaan Oromoo (Oromo)</string>
+    <string name="lang_ti">ትግርኛ (Tigrinya)</string>
+    <string name="lang_so">Soomaali (Somali)</string>
+
+    <!-- Connectivity -->
+    <string name="status_online">ተተሓሒዙ</string>
+    <string name="status_offline">መስመር ወጻኢ (ዝተዓቀበ ዳታ)</string>
+</resources>

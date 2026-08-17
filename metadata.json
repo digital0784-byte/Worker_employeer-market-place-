@@ -1,0 +1,6 @@
+{
+  "name": "Worker-Employer Marketplace",
+  "description": "Native Android marketplace connecting workers and employers with matching, applications, real-time chat, location map, reviews, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">የሰራተኛ የገበያ ቦታ</string>
+    <string name="app_tagline">ሰራተኞችንና አሰሪዎችን በኢትዮጵያና አፍሪካ የሚያገናኝ መድረክ</string>
+    
+    <!-- Roles -->
+    <string name="role_worker">ሰራተኛ</string>
+    <string name="role_employer">አሰሪ</string>
+    <string name="role_admin">አስተዳዳሪ</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">መነሻ</string>
+    <string name="nav_jobs">ስራዎች</string>
+    <string name="nav_workers">ሰራተኞች</string>
+    <string name="nav_applications">ማመልከቻዎች</string>
+    <string name="nav_messages">መልዕክቶች</string>
+    <string name="nav_profile">መገለጫ</string>
+    <string name="nav_map">ካርታ</string>
+    <string name="nav_dashboard">ዳሽቦርድ</string>
+    <string name="nav_users">ተጠቃሚዎች</string>
+    <string name="nav_verifications">ማረጋገጫዎች</string>
+    <string name="nav_reports">ሪፖርቶች</string>
+    <string name="nav_settings">ቅንብሮች</string>
+
+    <!-- Auth -->
+    <string name="login_title">እንኳን ደህና መጡ</string>
+    <string name="login_subtitle">ስራ ለማግኘት ወይም ሰራተኛ ለመቅጠር ይግቡ</string>
+    <string name="register_title">አዲስ መለያ ይፍጠሩ</string>
+    <string name="register_subtitle">የስራ ገበያችንን ይቀላቀሉ</string>
+    <string name="select_role">ሚናዎን ይምረጡ</string>
+    <string name="email_label">ኢሜይል</string>
+    <string name="phone_label">ስልክ ቁጥር</string>
+    <string name="password_label">የይለፍ ቃል</string>
+    <string name="full_name_label">ሙሉ ስም / የድርጅት ስም</string>
+    <string name="sign_in_button">ይግቡ</string>
+    <string name="sign_up_button">ይመዝገቡ</string>
+    <string name="switch_to_register">መለያ የለዎትም? ይመዝገቡ</string>
+    <string name="switch_to_login">መለያ አለዎት? ይግቡ</string>
+    <string name="quick_demo_login">የሙከራ መግቢያዎች</string>
+    <string name="demo_worker">እንደ ሰራተኛ ግባ</string>
+    <string name="demo_employer">እንደ አሰሪ ግባ</string>
+    <string name="demo_admin">እንደ አስተዳዳሪ ግባ</string>
+    <string name="logout">ውጣ</string>
+
+    <!-- Common Actions -->
+    <string name="action_search">ፈልግ</string>
+    <string name="action_filter">አጣራ</string>
+    <string name="action_apply">አሁን አመልክት</string>
+    <string name="action_cancel">ይቅር</string>
+    <string name="action_save">አስቀምጥ</string>
+    <string name="action_edit">አስተካክል</string>
+    <string name="action_delete">አጥፋ</string>
+    <string name="action_post_job">ስራ ለጥፍ</string>
+    <string name="action_view_details">ዝርዝር ይመልከቱ</string>
+    <string name="action_contact">መልዕክት ላክ</string>
+    <string name="action_call">ደውል</string>
+    <string name="action_shortlist">እጩ አድርግ</string>
+    <string name="action_interview">የቃለ መጠይቅ ጥያቄ</string>
+    <string name="action_accept">ተቀበል</string>
+    <string name="action_reject">ውድቅ አድርግ</string>
+    <string name="action_rate">ደረጃ ይስጡ</string>
+    <string name="action_report">ሪፖርት አድርግ</string>
+    <string name="action_verify">ማረጋገጫ ያግኙ</string>
+    <string name="action_approve">አጽድቅ</string>
+    <string name="action_suspend">አግድ</string>
+    <string name="action_block">ዝጋ</string>
+    <string name="action_activate">አንቃ</string>
+    <string name="action_send">ላክ</string>
+
+    <!-- Job Details & Statuses -->
+    <string name="job_title">የስራ ርዕስ</string>
+    <string name="job_category">የስራ ዘርፍ</string>
+    <string name="job_type">የቅጥር አይነት</string>
+    <string name="job_salary">ደመወዝ</string>
+    <string name="job_location">ቦታ</string>
+    <string name="job_skills">የሚፈለጉ ክህሎቶች</string>
+    <string name="job_experience">የስራ ልምድ</string>
+    <string name="job_deadline">የማመልከቻ ማብቂያ</string>
+    <string name="job_openings">ክፍት የስራ ቦታዎች</string>
+    <string name="status_active">ንቁ</string>
+    <string name="status_pending">በመጠባበቅ ላይ</string>
+    <string name="status_shortlisted">የተመረጡ</string>
+    <string name="status_interview">ቃለ መጠይቅ</string>
+    <string name="status_accepted">ተቀባይነት አግኝቷል</string>
+    <string name="status_rejected">ተቀባይነት አላገኘም</string>
+    <string name="status_cancelled">የተሰረዘ</string>
+    <string name="status_paused">ለጊዜው የቆመ</string>
+    <string name="status_closed">የተዘጋ</string>
+    <string name="status_filled">የተሞላ</string>
+
+    <!-- Verification -->
+    <string name="verification_unverified">ያልተረጋገጠ</string>
+    <string name="verification_pending">በማጣራት ላይ</string>
+    <string name="verification_verified">የተረጋገጠ መለያ</string>
+    <string name="verification_rejected">ውድቅ የተደረገ</string>
+
+    <!-- Matching -->
+    <string name="match_score">የተዛምዶ ነጥብ</string>
+    <string name="skills_match">የክህሎት ተዛምዶ</string>
+    <string name="location_match">የቦታ ተዛምዶ</string>
+    <string name="experience_match">የልምድ ተዛምዶ</string>
+    <string name="top_matches">ለእርስዎ ተስማሚ ስራዎች</string>
+    <string name="top_workers_matched">ተስማሚ ሰራተኞች</string>
+
+    <!-- Language -->
+    <string name="language_selection">ቋንቋ / Language</string>
+    <string name="lang_en">English</string>
+    <string name="lang_am">አማርኛ (Amharic)</string>
+    <string name="lang_om">Afaan Oromoo (Oromo)</string>
+    <string name="lang_ti">ትግርኛ (Tigrinya)</string>
+    <string name="lang_so">Soomaali (Somali)</string>
+
+    <!-- Connectivity -->
+    <string name="status_online">ተገናኝቷል</string>
+    <string name="status_offline">ከመስመር ውጭ (የተቀመጠ ዳታ)</string>
+</resources>

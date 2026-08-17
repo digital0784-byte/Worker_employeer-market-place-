@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Gabaa Hojjettootaa</string>
+    <string name="app_tagline">Hojjettoota fi Qaxartoota Itoophiyaa fi Afrikaa walqunnamsiisuu</string>
+    
+    <!-- Roles -->
+    <string name="role_worker">Hojjetaa</string>
+    <string name="role_employer">Qaxaraa</string>
+    <string name="role_admin">Bulchaa</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Fuula Duraa</string>
+    <string name="nav_jobs">Hojiiwwan</string>
+    <string name="nav_workers">Hojjettoota</string>
+    <string name="nav_applications">Iyyannoo</string>
+    <string name="nav_messages">Ergaawwan</string>
+    <string name="nav_profile">Piroofayilii</string>
+    <string name="nav_map">Kaartaa</string>
+    <string name="nav_dashboard">Daashboordii</string>
+    <string name="nav_users">Fayyadamtoota</string>
+    <string name="nav_verifications">Mirkaneessuu</string>
+    <string name="nav_reports">Gabaasota</string>
+    <string name="nav_settings">Qindaa\'inoota</string>
+
+    <!-- Auth -->
+    <string name="login_title">Baga Nagaan Dhuftan</string>
+    <string name="login_subtitle">Hojii argachuuf yookiin hojjetaa qaxaruuf seenaa</string>
+    <string name="register_title">Herrega Haaraa Banadhaa</string>
+    <string name="register_subtitle">Gabaa hojii keenyaatti dabalamaa</string>
+    <string name="select_role">Gahee Keessan Filadhaa</string>
+    <string name="email_label">Imeeyilii</string>
+    <string name="phone_label">Lakkoofsa Bilbilaa</string>
+    <string name="password_label">Jecha Darbii</string>
+    <string name="full_name_label">Maqaa Guutuu / Maqaa Dhaabbataa</string>
+    <string name="sign_in_button">Seenaa</string>
+    <string name="sign_up_button">Galmaa\'aa</string>
+    <string name="switch_to_register">Herrega hin qabdanii? Galmaa\'aa</string>
+    <string name="switch_to_login">Herrega qabduu? Seenaa</string>
+    <string name="quick_demo_login">Seensa Yaalii (Demo)</string>
+    <string name="demo_worker">Akka Hojjetaatti Seenaa</string>
+    <string name="demo_employer">Akka Qaxaraatti Seenaa</string>
+    <string name="demo_admin">Akka Bulchaatti Seenaa</string>
+    <string name="logout">Bahaa</string>
+
+    <!-- Common Actions -->
+    <string name="action_search">Barbaadi</string>
+    <string name="action_filter">Filtarii</string>
+    <string name="action_apply">Amma Iyyadhu</string>
+    <string name="action_cancel">Dhiisi</string>
+    <string name="action_save">Olkaawwi</string>
+    <string name="action_edit">Gulaali</string>
+    <string name="action_delete">Haqi</string>
+    <string name="action_post_job">Hojii Maxxansi</string>
+    <string name="action_view_details">Bal\'ina Ilaali</string>
+    <string name="action_contact">Ergaa Ergi</string>
+    <string name="action_call">Bilbili</string>
+    <string name="action_shortlist">Filadhu</string>
+    <string name="action_interview">Gaaffii fi Deebii</string>
+    <string name="action_accept">Fudhadhu</string>
+    <string name="action_reject">Kufisi</string>
+    <string name="action_rate">Sadarkaa Kenni</string>
+    <string name="action_report">Gabaasi</string>
+    <string name="action_verify">Mirkaneeffadhu</string>
+    <string name="action_approve">Mirkaneessi</string>
+    <string name="action_suspend">Dhorki</string>
+    <string name="action_block">Cufi</string>
+    <string name="action_activate">Bani</string>
+    <string name="action_send">Ergi</string>
+
+    <!-- Job Details & Statuses -->
+    <string name="job_title">Mata Duree Hojii</string>
+    <string name="job_category">Gosa Hojii</string>
+    <string name="job_type">Gosa Qaxaraa</string>
+    <string name="job_salary">Mindaa</string>
+    <string name="job_location">Bakka</string>
+    <string name="job_skills">Dandeettii Barbaachisu</string>
+    <string name="job_experience">Muuxannoo Barbaachisu</string>
+    <string name="job_deadline">Dhuma Iyyannoo</string>
+    <string name="job_openings">Bakka Hojii Duwwaa</string>
+    <string name="status_active">Hojirra Jira</string>
+    <string name="status_pending">Eegamaa Jira</string>
+    <string name="status_shortlisted">Filatameera</string>
+    <string name="status_interview">Gaaffii fi Deebii</string>
+    <string name="status_accepted">Fudhatameera</string>
+    <string name="status_rejected">Kufaa Ta\'eera</string>
+    <string name="status_cancelled">Haqameera</string>
+    <string name="status_paused">Yeroof Dhaabbateera</string>
+    <string name="status_closed">Cufameera</string>
+    <string name="status_filled">Gootameera</string>
+
+    <!-- Verification -->
+    <string name="verification_unverified">Hin Mirkanoofne</string>
+    <string name="verification_pending">Mirkaneessarra Jira</string>
+    <string name="verification_verified">Herrega Mirkanaa\'e</string>
+    <string name="verification_rejected">Kufaa Ta\'e</string>
+
+    <!-- Matching -->
+    <string name="match_score">Qabxii Walgitiinsaa</string>
+    <string name="skills_match">Walgitiinsa Dandeettii</string>
+    <string name="location_match">Walgitiinsa Bakkaa</string>
+    <string name="experience_match">Walgitiinsa Muuxannoo</string>
+    <string name="top_matches">Hojii Isiniif Ta\'u</string>
+    <string name="top_workers_matched">Hojjettoota Filatamoo</string>
+
+    <!-- Language -->
+    <string name="language_selection">Afaan / Language</string>
+    <string name="lang_en">English</string>
+    <string name="lang_am">አማርኛ (Amharic)</string>
+    <string name="lang_om">Afaan Oromoo (Oromo)</string>
+    <string name="lang_ti">ትግርኛ (Tigrinya)</string>
+    <string name="lang_so">Soomaali (Somali)</string>
+
+    <!-- Connectivity -->
+    <string name="status_online">Qunnameera</string>
+    <string name="status_offline">Tajaajila Ala (Daataa Quusatame)</string>
+</resources>
