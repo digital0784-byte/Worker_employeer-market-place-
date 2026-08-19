@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Worker Marketplace</string>
+    <string name="app_tagline">Connecting Talent with Opportunities across Ethiopia &amp; Africa</string>
+    
+    <!-- Roles -->
+    <string name="role_worker">Worker</string>
+    <string name="role_employer">Employer</string>
+    <string name="role_admin">Administrator</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_jobs">Jobs</string>
+    <string name="nav_workers">Workers</string>
+    <string name="nav_applications">Applications</string>
+    <string name="nav_messages">Messages</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_users">Users</string>
+    <string name="nav_verifications">Verifications</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Auth -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to find jobs or hire verified workers</string>
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Join the leading Ethiopian worker marketplace</string>
+    <string name="select_role">Select Your Role</string>
+    <string name="email_label">Email Address</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="password_label">Password</string>
+    <string name="full_name_label">Full Name / Company Name</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="sign_up_button">Register</string>
+    <string name="switch_to_register">Don\'t have an account? Sign Up</string>
+    <string name="switch_to_login">Already have an account? Sign In</string>
+    <string name="quick_demo_login">Quick Test Logins (Demo)</string>
+    <string name="demo_worker">Login as Worker</string>
+    <string name="demo_employer">Login as Employer</string>
+    <string name="demo_admin">Login as Admin</string>
+    <string name="logout">Sign Out</string>
+
+    <!-- Common Actions -->
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_apply">Apply Now</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_save">Save</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_post_job">Post a Job</string>
+    <string name="action_view_details">View Details</string>
+    <string name="action_contact">Message</string>
+    <string name="action_call">Call</string>
+    <string name="action_shortlist">Shortlist</string>
+    <string name="action_interview">Interview Request</string>
+    <string name="action_accept">Accept</string>
+    <string name="action_reject">Reject</string>
+    <string name="action_rate">Rate &amp; Review</string>
+    <string name="action_report">Report</string>
+    <string name="action_verify">Get Verified</string>
+    <string name="action_approve">Approve</string>
+    <string name="action_suspend">Suspend</string>
+    <string name="action_block">Block</string>
+    <string name="action_activate">Activate</string>
+    <string name="action_send">Send</string>
+
+    <!-- Job Details & Statuses -->
+    <string name="job_title">Job Title</string>
+    <string name="job_category">Category</string>
+    <string name="job_type">Employment Type</string>
+    <string name="job_salary">Salary</string>
+    <string name="job_location">Location</string>
+    <string name="job_skills">Required Skills</string>
+    <string name="job_experience">Experience Required</string>
+    <string name="job_deadline">Application Deadline</string>
+    <string name="job_openings">Open Positions</string>
+    <string name="status_active">Active</string>
+    <string name="status_pending">Pending</string>
+    <string name="status_shortlisted">Shortlisted</string>
+    <string name="status_interview">Interview</string>
+    <string name="status_accepted">Accepted</string>
+    <string name="status_rejected">Rejected</string>
+    <string name="status_cancelled">Cancelled</string>
+    <string name="status_paused">Paused</string>
+    <string name="status_closed">Closed</string>
+    <string name="status_filled">Filled</string>
+
+    <!-- Verification -->
+    <string name="verification_unverified">Unverified</string>
+    <string name="verification_pending">Pending Verification</string>
+    <string name="verification_verified">Verified Account</string>
+    <string name="verification_rejected">Verification Rejected</string>
+
+    <!-- Matching -->
+    <string name="match_score">Match Score</string>
+    <string name="skills_match">Skills Match</string>
+    <string name="location_match">Location Match</string>
+    <string name="experience_match">Experience Match</string>
+    <string name="top_matches">Top Matched Jobs for You</string>
+    <string name="top_workers_matched">Top Matched Workers</string>
+
+    <!-- Language -->
+    <string name="language_selection">Language / ቋንቋ</string>
+    <string name="settings_title">Settings</string>
+    <string name="change_language">Change Language</string>
+    <string name="lang_en">English</string>
+    <string name="lang_am">አማርኛ (Amharic)</string>
+    <string name="lang_om">Afaan Oromoo (Oromo)</string>
+    <string name="lang_ti">ትግርኛ (Tigrinya)</string>
+    <string name="lang_so">Soomaali (Somali)</string>
+
+    <!-- Connectivity -->
+    <string name="status_online">Connected</string>
+    <string name="status_offline">Offline Mode (Cached)</string>
+</resources>
